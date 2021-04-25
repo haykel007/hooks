@@ -1,0 +1,42 @@
+body{
+  background-color: black;
+  color: red;
+}
+.App-header {
+  background-color: black;
+}
+.App-footer {
+  background-color: black;
+  color: aliceblue;
+  padding: 23px;
+  text-align: center;
+}
+
+footer{
+  border: red 4px solid;
+}
+.App {
+  text-align: center;
+}
+.ss{
+  display: flex;
+  justify-content: space-around;
+  border: red 4px solid;
+}
+.sb{
+  border: white 4px solid;
+
+}
+.de{
+  background-color: white !important;
+}
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+
